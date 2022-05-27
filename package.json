@@ -6,7 +6,7 @@
     "discord.js": "^13.2.0",
     "hastebin": "^0.2.1"
   },
-  "name": "Revosia-ticket",
+  "name": "revosia-ticket",
   "version": "1.0.0",
   "description": "Bot with a ticket system using Discord.js v13",
   "main": "index.js",
